@@ -1,6 +1,6 @@
 # README
 
-Lei Dark Theme for Visual Studio Code
+Lei Theme for Visual Studio Code
 
 ## Installation
 
