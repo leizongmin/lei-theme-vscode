@@ -10,11 +10,17 @@ Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
 $ ext install theme-lei
 ```
 
-open `File > Preferences > Color Themes` and pick the color theme "**Lei Dark**"
+open `File > Preferences > Color Themes` and pick the color theme "**Lei Dark**" or "**Lei Light**"
 
 ------
 
-![capture](capture.png)
+### Dark
+
+![capture-dark](https://github.com/leizongmin/lei-theme-vscode/raw/master/capture-dark.png)
+
+### Light
+
+![capture-light](https://github.com/leizongmin/lei-theme-vscode/raw/master/capture-light.png)
 
 
 ## License

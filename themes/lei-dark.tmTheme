@@ -445,7 +445,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.lei</string>
 	<key>author</key>
 	<string>Zongmin Lei</string>
 	<key>comment</key>
