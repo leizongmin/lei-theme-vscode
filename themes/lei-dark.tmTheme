@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>Lei Dark</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -254,7 +254,7 @@
 				<key>foreground</key>
 				<string>#66D9EF</string>
 				<key>fontStyle</key>
-				<string>    underline</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
