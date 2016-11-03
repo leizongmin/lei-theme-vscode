@@ -1,7 +1,7 @@
 {
     "name": "theme-lei",
     "displayName": "Lei Theme",
-    "description": "Best theme for Lei",
+    "description": "Lei Dark Theme for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "leizongmin",
     "engines": {
