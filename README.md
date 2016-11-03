@@ -2,6 +2,20 @@
 
 Lei Dark Theme for Visual Studio Code
 
+## Installation
+
+Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
+
+```bash
+$ ext install theme-lei
+```
+
+open `File > Preferences > Color Themes` and pick the color theme "**Lei Dark**"
+
+------
+
+![capture](capture.png)
+
 
 ## License
 

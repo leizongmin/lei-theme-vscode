@@ -1,22 +1,20 @@
 {
-    "name": "theme-lei",
-    "displayName": "Lei Theme",
-    "description": "Lei Dark Theme for Visual Studio Code",
-    "version": "0.0.1",
-    "publisher": "leizongmin",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Lei Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/LeiDark.tmTheme"
-            }
-        ]
-    }
+  "name": "theme-lei",
+  "displayName": "Lei Theme",
+  "description": "Lei Dark Theme for Visual Studio Code",
+  "version": "0.0.2",
+  "publisher": "leizongmin",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [{
+      "label": "Lei Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/lei-dark.tmTheme"
+    }]
+  }
 }
