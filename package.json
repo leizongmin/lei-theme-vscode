@@ -1,9 +1,18 @@
 {
   "name": "theme-lei",
   "displayName": "Lei Theme",
-  "description": "Lei Dark Theme for Visual Studio Code",
-  "version": "0.0.4",
+  "description": "Lei Theme for Visual Studio Code",
+  "version": "0.0.5",
   "publisher": "leizongmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leizongmin/lei-theme-vscode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leizongmin/lei-theme-vscode.git"
+  },
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.5.0"
   },
