@@ -1,0 +1,22 @@
+{
+    "name": "theme-lei",
+    "displayName": "Lei Theme",
+    "description": "Best theme for Lei",
+    "version": "0.0.1",
+    "publisher": "leizongmin",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lei Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/LeiDark.tmTheme"
+            }
+        ]
+    }
+}
