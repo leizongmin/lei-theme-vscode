@@ -64,7 +64,7 @@
 			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
-			<string>string</string>
+			<string>string,punctuation.definition.string</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -457,7 +457,7 @@
 			<key>name</key>
 			<string>Brace</string>
 			<key>scope</key>
-			<string>meta.brace,meta.delimiter,punctuation.definition</string>
+			<string>meta.brace,meta.delimiter,punctuation.definition,punctuation.terminator</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
