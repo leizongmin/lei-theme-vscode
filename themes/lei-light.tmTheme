@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F7F7F8</string>
+				<string>#FFFFFF</string>
 				<key>caret</key>
 				<string>#000000</string>
 				<key>foreground</key>
@@ -26,38 +26,38 @@
 				<key>selection</key>
 				<string>#cccccc</string>
 				<key>rangeHighlight</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>selectionHighlight</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>inactiveSelection</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>wordHighlight</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>wordHighlightStrong</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>findMatchHighlight</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>findRangeHighlight</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>activeLinkForeground</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>hoverHighlight</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 				<key>referenceHighlight</key>
-				<string>#3392FF73</string>
+				<string>#3392FF3B</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment.line,comment.block</string>
+			<string>comment.line,comment.block,punctuation.definition.comment</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AAAAAA</string>
+				<string>#008000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -69,21 +69,30 @@
 			<dict>
 				<key>foreground</key>
 				<string>#BF0099</string>
-				<key>fontStyle</key>
-				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Entity</string>
+			<string>Entity Name</string>
 			<key>scope</key>
-			<string>entity.name.function,entity.name.type,entity.name.section</string>
+			<string>entity.name.function,entity.name.section</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#444444</string>
 				<key>fontStyle</key>
 				<string> bold</string>
+			</dict>
+		</dict>
+    <dict>
+			<key>name</key>
+			<string>Entity Type</string>
+			<key>scope</key>
+			<string>entity.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#008000</string>
 			</dict>
 		</dict>
 		<dict>
