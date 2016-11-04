@@ -300,13 +300,24 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JSON String</string>
+			<string>JSON String Dictionary</string>
 			<key>scope</key>
 			<string>meta.structure.dictionary.json string.quoted.double.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#04A292</string>
+				<string>#63A1C2</string>
+			</dict>
+		</dict>
+    <dict>
+			<key>name</key>
+			<string>JSON String Quoted</string>
+			<key>scope</key>
+			<string>meta.structure.dictionary.json string.quoted.double.json</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#aaaaaa</string>
 			</dict>
 		</dict>
 		<dict>
