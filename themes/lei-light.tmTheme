@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FAFAFA</string>
+				<string>#F0F0F0</string>
 				<key>caret</key>
 				<string>#333333</string>
 				<key>foreground</key>
@@ -42,11 +42,11 @@
 				<key>findRangeHighlight</key>
 				<string>#FFAD3373</string>
 				<key>activeLinkForeground</key>
-				<string>#FFAD3373</string>
+				<string>#0000DB</string>
 				<key>hoverHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#0000FF17</string>
 				<key>referenceHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#0000FF17</string>
 			</dict>
 		</dict>
 		<dict>
