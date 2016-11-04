@@ -174,13 +174,15 @@
 			<dict>
 				<key>foreground</key>
 				<string>#888888</string>
+        <key>fontStyle</key>
+        <string>bold</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>JSON String Dictionary</string>
 			<key>scope</key>
-			<string>meta.structure.dictionary.json string.quoted.double.json</string>
+			<string>meta.structure.dictionary.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -191,7 +193,7 @@
 			<key>name</key>
 			<string>JSON String Quoted</string>
 			<key>scope</key>
-			<string>meta.structure.dictionary.json string.quoted.double.json</string>
+			<string>string.quoted.double.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
