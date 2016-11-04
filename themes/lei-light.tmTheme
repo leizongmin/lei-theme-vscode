@@ -103,7 +103,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C74900</string>
+				<string>#CCCCCC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -114,7 +114,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C74900</string>
+				<string>#333333</string>
 			</dict>
 		</dict>
 		<dict>
@@ -186,9 +186,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#880000</string>
-				<key>fontStyle</key>
-				<string> bold</string>
+				<string>#C74900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -199,7 +197,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C74900</string>
+				<string>#333333</string>
 			</dict>
 		</dict>
 		<dict>
@@ -210,7 +208,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C74900</string>
+				<string>#333333</string>
 			</dict>
 		</dict>
 		<dict>
@@ -221,7 +219,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C74900</string>
+				<string>#333333</string>
 			</dict>
 		</dict>
 		<dict>
@@ -232,9 +230,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#880000</string>
-				<key>fontStyle</key>
-				<string> bold</string>
+				<string>#C74900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -245,7 +241,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C74900</string>
+				<string>#333333</string>
 			</dict>
 		</dict>
 		<dict>
@@ -256,7 +252,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#880000</string>
+				<string>#C74900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -267,7 +263,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C74900</string>
+				<string>#333333</string>
 			</dict>
 		</dict>
 		<dict>
@@ -424,7 +420,7 @@
 			<string>markup.heading</string>
 			<key>settings</key>
 			<dict>
-        <key>fontStyle</key>
+				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
 				<string>#0000DB</string>
