@@ -14,11 +14,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#252B2B</string>
+				<string>#232323</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#CDCDCD</string>
+				<string>#AAAAAA</string>
 				<key>invisibles</key>
 				<string>#F1FFB817</string>
 				<key>lineHighlight</key>
@@ -26,27 +26,27 @@
 				<key>selection</key>
 				<string>#33CCFF47</string>
 				<key>rangeHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>selectionHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>inactiveSelection</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>wordHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>wordHighlightStrong</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>findMatchHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>currentFindMatchHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>findRangeHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>activeLinkForeground</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>hoverHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 				<key>referenceHighlight</key>
-				<string>#FFAD3373</string>
+				<string>#3392FF73</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715E</string>
+				<string>#666666</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6DB74</string>
+				<string>#7587A6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +79,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -103,7 +103,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9B62</string>
+				<string>#aaaaaa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -114,7 +114,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9B62</string>
+				<string>#aaaaaa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -125,7 +125,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#63A1C2</string>
+				<string>#7587A6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,7 +138,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#63A1C2</string>
+				<string>#7587A6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,7 +149,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#63A1C2</string>
+				<string>#7587A6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -162,7 +162,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -175,7 +175,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -186,7 +186,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -197,7 +197,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9B62</string>
+				<string>#917CCD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -219,7 +219,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FD971F</string>
+				<string>#aaaaaa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -230,7 +230,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#63A1C2</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -241,7 +243,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9B62</string>
+				<string>#aaaaaa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -252,7 +254,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#63A1C2</string>
 				<key>fontStyle</key>
 				<string></string>
 			</dict>
@@ -265,7 +267,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF9B62</string>
+				<string>#aaaaaa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -304,7 +306,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CFCFC2</string>
+				<string>#AAAAAA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -377,7 +379,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#7587A6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -388,7 +390,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E6DB74</string>
+				<string>#AAAAAA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -399,7 +401,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#BBBBBB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -412,7 +414,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FD971F</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -423,7 +425,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -436,7 +438,18 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#63A1C2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Brace</string>
+			<key>scope</key>
+			<string>meta.brace,meta.delimiter,punctuation.definition</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#666666</string>
 			</dict>
 		</dict>
 	</array>
@@ -445,7 +458,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.lei</string>
+	<string>theme.dark.lei_dark</string>
 	<key>author</key>
 	<string>Zongmin Lei</string>
 	<key>comment</key>
