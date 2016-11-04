@@ -455,9 +455,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Brace</string>
+			<string>Punctuation</string>
 			<key>scope</key>
-			<string>meta.brace,meta.delimiter,punctuation.definition,punctuation.terminator</string>
+			<string>meta.brace,meta.delimiter,punctuation.definition,punctuation.terminator,punctuation.separator</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
