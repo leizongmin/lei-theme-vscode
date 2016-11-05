@@ -28,6 +28,10 @@
       "label": "Lei Light",
       "uiTheme": "vs",
       "path": "./themes/lei-light.tmTheme"
+    }, {
+      "label": "Lei Light+",
+      "uiTheme": "vs",
+      "path": "./themes/lei-light-plus.tmTheme"
     }]
   }
 }
