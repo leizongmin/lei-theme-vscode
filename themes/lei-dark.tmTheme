@@ -53,11 +53,11 @@
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment.line,comment.block</string>
+			<string>comment.line,comment.block,punctuation.definition.comment</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#777777</string>
+				<string>#666666</string>
 			</dict>
 		</dict>
 		<dict>
@@ -73,9 +73,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Entity</string>
+			<string>Entity Name</string>
 			<key>scope</key>
-			<string>entity.name,entity.other</string>
+			<string>entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#49A5D6BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Entity Type</string>
+			<key>scope</key>
+			<string>entity.name.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -119,7 +130,7 @@
 				<string>#CCCC99BD</string>
 			</dict>
 		</dict>
-    <dict>
+		<dict>
 			<key>name</key>
 			<string>Name</string>
 			<key>scope</key>
@@ -134,7 +145,7 @@
 			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
-			<string>string.quoted,string.unquoted,string.interpolated,string.other,punctuation.definition.string</string>
+			<string>string,punctuation.definition.string,meta.preprocessor.string</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -149,7 +160,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EB41C9</string>
+				<string>#97C8CCC4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -167,7 +178,7 @@
 			<key>name</key>
 			<string>JSON String Dictionary</string>
 			<key>scope</key>
-			<string>meta.structure.dictionary.json string.quoted.double.json</string>
+			<string>meta.structure.dictionary.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -178,7 +189,7 @@
 			<key>name</key>
 			<string>JSON String Quoted</string>
 			<key>scope</key>
-			<string>meta.structure.dictionary.json string.quoted.double.json</string>
+			<string>string.quoted.double.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -259,7 +270,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#BBBBBB</string>
+				<string>#CCCC99BD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -283,7 +294,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#63A1C2</string>
+				<string>#EB41C9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -296,7 +307,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#63A1C2</string>
+				<string>#EB41C9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -308,6 +319,30 @@
 			<dict>
 				<key>foreground</key>
 				<string>#97C8CCC4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Tag Name</string>
+			<key>scope</key>
+			<string>entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CCCC99BD</string>
+				<key>fontStyle</key>
+				<string> bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Tag Attribute</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#63A1C2</string>
 			</dict>
 		</dict>
 	</array>

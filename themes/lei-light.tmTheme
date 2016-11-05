@@ -84,7 +84,7 @@
 				<string> bold</string>
 			</dict>
 		</dict>
-    <dict>
+		<dict>
 			<key>name</key>
 			<string>Entity Type</string>
 			<key>scope</key>
@@ -174,8 +174,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#888888</string>
-        <key>fontStyle</key>
-        <string>bold</string>
+				<key>fontStyle</key>
+				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -334,6 +334,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#00679E</string>
+				<key>fontStyle</key>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -344,7 +346,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#828282</string>
+				<string>#0808D1</string>
 			</dict>
 		</dict>
 	</array>
@@ -353,7 +355,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.lei_dark</string>
+	<string>theme.light.lei_light</string>
 	<key>author</key>
 	<string>Zongmin Lei</string>
 	<key>comment</key>
