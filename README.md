@@ -10,7 +10,7 @@ Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
 ext install theme-lei
 ```
 
-open `File > Preferences > Color Themes` and pick the color theme "**Lei Dark**" or "**Lei Light**"
+open `File > Preferences > Color Themes` and pick the color theme "**Lei Dark**", "**Lei Light**" or "**Lei Light+**"
 
 ------
 
