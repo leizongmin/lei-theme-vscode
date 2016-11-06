@@ -86,17 +86,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Entity Type</string>
-			<key>scope</key>
-			<string>entity.name.type</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#008900</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Invalid Illegal</string>
 			<key>scope</key>
 			<string>invalid.illegal</string>
