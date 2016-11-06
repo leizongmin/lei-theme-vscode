@@ -22,7 +22,7 @@
 				<key>invisibles</key>
 				<string>#dddddd</string>
 				<key>lineHighlight</key>
-				<string>#eeeeee</string>
+				<string>#E0E0E0</string>
 				<key>selection</key>
 				<string>#cccccc</string>
 				<key>rangeHighlight</key>
