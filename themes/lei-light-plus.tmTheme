@@ -75,7 +75,7 @@
 			<key>name</key>
 			<string>Entity Name</string>
 			<key>scope</key>
-			<string>entity.name.function,entity.name.section</string>
+			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
