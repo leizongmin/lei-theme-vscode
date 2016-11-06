@@ -182,7 +182,7 @@
 			<key>name</key>
 			<string>JSON String Dictionary</string>
 			<key>scope</key>
-			<string>meta.structure.dictionary.json</string>
+			<string>support.type.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
