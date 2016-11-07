@@ -4,24 +4,31 @@ Lei Theme for Visual Studio Code
 
 ## Installation
 
-Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.
+Launch VS Code Quick Open (**⌘+P**), paste the following command, and press enter.
 
 ```bash
 ext install theme-lei
 ```
 
-open `File > Preferences > Color Themes` and pick the color theme "**Lei Dark**", "**Lei Light**" or "**Lei Light+**"
+open **File > Preferences > Color Themes** and pick the color theme start with "**Lei**".
 
-------
+-----
 
-### Light
+## Light
 
-![capture-light](https://github.com/leizongmin/lei-theme-vscode/raw/master/capture-light.png)
+![capture-light](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-light.png)
 
-### Dark
+## Light Yellow
 
-![capture-dark](https://github.com/leizongmin/lei-theme-vscode/raw/master/capture-dark.png)
+![capture-light](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-light-yellow.png)
 
+## Dark
+
+![capture-dark](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-dark.png)
+
+## Dark Blue
+
+![capture-dark](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-dark-blue.png)
 
 ## License
 
