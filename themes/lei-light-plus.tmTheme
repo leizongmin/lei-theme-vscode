@@ -112,7 +112,7 @@
 			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
-			<string>keyword.control,keyword.other,variable.language,storage.type,storage.modifier</string>
+			<string>keyword.control,keyword.other,variable.language,storage.type,storage.modifier,keyword.function</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
