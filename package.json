@@ -13,6 +13,10 @@
     "url": "https://github.com/leizongmin/lei-theme-vscode.git"
   },
   "icon": "icon.png",
+  "files": [
+    "icon.png",
+    "themes"
+  ],
   "engines": {
     "vscode": "^1.5.0"
   },
