@@ -29,9 +29,9 @@
       "uiTheme": "vs",
       "path": "./themes/lei-light.tmTheme"
     }, {
-      "label": "Lei Light+",
+      "label": "Lei Light Yellow",
       "uiTheme": "vs",
-      "path": "./themes/lei-light-plus.tmTheme"
+      "path": "./themes/lei-light-yellow.tmTheme"
     }]
   }
 }

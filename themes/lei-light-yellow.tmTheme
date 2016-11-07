@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Lei Light+</string>
+	<string>Lei Light Yellow</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -342,7 +342,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.lei_light+</string>
+	<string>theme.light.lei_light_yellow</string>
 	<key>author</key>
 	<string>Zongmin Lei</string>
 	<key>comment</key>
