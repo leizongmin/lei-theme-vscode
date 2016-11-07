@@ -84,28 +84,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid Illegal</string>
+			<string>Invalid</string>
 			<key>scope</key>
-			<string>invalid.illegal</string>
+			<string>invalid</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
-				<key>background</key>
-				<string>#D92742</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Invalid Deprecated</string>
-			<key>scope</key>
-			<string>invalid.deprecated</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFFFFF</string>
-				<key>background</key>
-				<string>#EB41C9</string>
+				<string>#cd3131</string>
 			</dict>
 		</dict>
 		<dict>
