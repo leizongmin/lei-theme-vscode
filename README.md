@@ -14,19 +14,19 @@ open **File > Preferences > Color Themes** and pick the color theme start with "
 
 -----
 
-## Light
+## Lei Light
 
 ![capture-light](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-light.png)
 
-## Light Yellow
+## Lei Light Yellow
 
 ![capture-light](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-light-yellow.png)
 
-## Dark
+## Lei Dark
 
 ![capture-dark](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-dark.png)
 
-## Dark Blue
+## Lei Dark Blue
 
 ![capture-dark](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-dark-blue.png)
 
