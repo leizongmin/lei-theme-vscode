@@ -25,6 +25,10 @@
       "uiTheme": "vs-dark",
       "path": "./themes/lei-dark.tmTheme"
     }, {
+      "label": "Lei Dark Blue",
+      "uiTheme": "vs-dark",
+      "path": "./themes/lei-dark-blue.tmTheme"
+    }, {
       "label": "Lei Light",
       "uiTheme": "vs",
       "path": "./themes/lei-light.tmTheme"
