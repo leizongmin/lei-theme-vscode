@@ -323,7 +323,7 @@
 			<key>name</key>
 			<string>Type Annotation</string>
 			<key>scope</key>
-			<string>meta.type.annotation</string>
+			<string>support.type.declaration</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
