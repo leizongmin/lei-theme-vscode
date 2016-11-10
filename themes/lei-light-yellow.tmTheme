@@ -146,8 +146,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#888888</string>
-				<key>fontStyle</key>
-				<string>bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -329,7 +327,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CC9446</string>
+				<string>#888888</string>
 			</dict>
     </dict>
 	</array>
