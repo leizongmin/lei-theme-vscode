@@ -321,7 +321,7 @@
 			<key>name</key>
 			<string>Type Annotation</string>
 			<key>scope</key>
-			<string>support.type.declaration,entity.name.annotation,punctuation.annotation</string>
+			<string>support.type.declaration,entity.name.annotation,punctuation.annotation,support.type.annotation,function.return.type,operator.annotation.parameters</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
