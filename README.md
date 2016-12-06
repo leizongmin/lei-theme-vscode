@@ -1,6 +1,6 @@
 # README
 
-Lei Theme for Visual Studio Code
+Theme for JavaScript, TypeScript and Web Developer
 
 ## Installation
 
