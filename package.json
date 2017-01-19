@@ -2,7 +2,7 @@
   "name": "theme-lei",
   "displayName": "Lei Theme",
   "description": "Theme for JavaScript, TypeScript and Web Developer",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "publisher": "leizongmin",
   "license": "MIT",
   "bugs": {
@@ -40,6 +40,10 @@
       "label": "Lei Light Yellow",
       "uiTheme": "vs",
       "path": "./themes/lei-light-yellow.tmTheme"
+    }, {
+      "label": "Lei Light Green",
+      "uiTheme": "vs",
+      "path": "./themes/lei-light-green.tmTheme"
     }]
   }
 }
