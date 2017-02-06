@@ -1,0 +1,34 @@
+{
+	"name": "Lei Dark",
+	"include": "./dark_plus.json",
+	"settings": [
+		{
+			"name": "settings",
+			"settings": {
+				"background": "#232323",
+				"caret": "#F8F8F0",
+				"foreground": "#CCCCCC",
+				"invisibles": "#F1FFB817",
+				"lineHighlight": "#42E6FF1C",
+				"selection": "#33CCFF47",
+				"rangeHighlight": "#3392FF73",
+				"selectionHighlight": "#3392FF73",
+				"inactiveSelection": "#3392FF73",
+				"wordHighlight": "#3392FF73",
+				"wordHighlightStrong": "#3392FF73",
+				"findMatchHighlight": "#3392FF73",
+				"currentFindMatchHighlight": "#3392FF73",
+				"findRangeHighlight": "#3392FF73",
+				"activeLinkForeground": "#DC857A",
+				"hoverHighlight": "#3392FF73",
+				"referenceHighlight": "#3392FF73"
+			}
+		},
+    {
+			"scope": "comment",
+			"settings": {
+				"foreground": "#707180"
+			}
+		}
+	]
+}

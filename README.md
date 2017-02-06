@@ -1,6 +1,6 @@
 # README
 
-Theme for JavaScript, TypeScript and Web Developer
+Theme for JavaScript, TypeScript and Web Developer base on default Light & Dark theme.
 
 ## Installation
 
@@ -16,26 +16,18 @@ open **File > Preferences > Color Themes** and pick the color theme start with "
 
 ## Lei Light
 
-![capture-light](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-light.png)
-
-## Lei Light Yellow
-
 ![capture-light](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-light-yellow.png)
 
 ## Lei Dark
 
 ![capture-dark](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-dark.png)
 
-## Lei Dark Blue
-
-![capture-dark](https://github.com/leizongmin/lei-theme-vscode/raw/master/screen/lei-dark-blue.png)
-
 ## License
 
 ```
 MIT License
 
-Copyright (c) 2016 Zongmin Lei <leizongmin@gmail.com>
+Copyright (c) 2016-2017 Zongmin Lei <leizongmin@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

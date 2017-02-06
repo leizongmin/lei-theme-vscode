@@ -1,8 +1,8 @@
 {
   "name": "theme-lei",
   "displayName": "Lei Theme",
-  "description": "Theme for JavaScript, TypeScript and Web Developer",
-  "version": "0.4.0",
+  "description": "Theme for JavaScript, TypeScript and Web Developer base on default Light & Dark theme.",
+  "version": "1.0.0",
   "publisher": "leizongmin",
   "license": "MIT",
   "bugs": {
@@ -25,25 +25,13 @@
   ],
   "contributes": {
     "themes": [{
-      "label": "Lei Dark",
-      "uiTheme": "vs-dark",
-      "path": "./themes/lei-dark.tmTheme"
-    }, {
-      "label": "Lei Dark Blue",
-      "uiTheme": "vs-dark",
-      "path": "./themes/lei-dark-blue.tmTheme"
-    }, {
       "label": "Lei Light",
       "uiTheme": "vs",
-      "path": "./themes/lei-light.tmTheme"
+      "path": "./themes/lei_light.json"
     }, {
-      "label": "Lei Light Yellow",
-      "uiTheme": "vs",
-      "path": "./themes/lei-light-yellow.tmTheme"
-    }, {
-      "label": "Lei Light Green",
-      "uiTheme": "vs",
-      "path": "./themes/lei-light-green.tmTheme"
+      "label": "Lei Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/lei_dark.json"
     }]
   }
 }
