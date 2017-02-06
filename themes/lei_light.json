@@ -5,13 +5,69 @@
 		{
 			"name": "settings",
 			"settings": {
-				"background": "#FAF4EA"
+				"background": "#F9F2E5",
+        "caret": "#000000",
+				"foreground": "#000000",
+				"invisibles": "#dddddd",
+				"lineHighlight": "#E0E0E0",
+				"selection": "#cccccc",
+				"rangeHighlight": "#3392FF3B",
+				"selectionHighlight": "#3392FF3B",
+				"inactiveSelection": "#3392FF3B",
+				"wordHighlight": "#3392FF3B",
+				"wordHighlightStrong": "#3392FF3B",
+				"findMatchHighlight": "#3392FF3B",
+				"currentFindMatchHighlight": "#3392FF3B",
+				"findRangeHighlight": "#3392FF3B",
+				"activeLinkForeground": "#a71d5d",
+				"hoverHighlight": "#3392FF3B",
+				"referenceHighlight": "#3392FF3B"
 			}
 		},
     {
 			"scope": "comment",
 			"settings": {
 				"foreground": "#888888"
+			}
+		},
+    {
+			"scope": [
+        "keyword",
+        "keyword.control",
+        "keyword.operator.new",
+        "keyword.operator.expression",
+        "variable.language",
+        "constant.language",
+        "meta.preprocessor",
+        "storage",
+        "storage.type",
+        "storage.modifier",
+
+        "string.comment.buffered.block.jade",
+				"string.quoted.jade",
+				"string.interpolated.jade",
+
+				"string.unquoted.plain.in.yaml",
+				"string.unquoted.plain.out.yaml",
+				"string.unquoted.block.yaml",
+				"string.quoted.single.yaml",
+
+				"string.quoted.double.xml",
+				"string.quoted.single.xml",
+				"string.unquoted.cdata.xml",
+
+				"string.quoted.double.html",
+				"string.quoted.single.html",
+				"string.unquoted.html",
+
+				"string.quoted.single.handlebars",
+				"string.quoted.double.handlebars",
+
+        "punctuation.definition.template-expression.begin.ts",
+				"punctuation.definition.template-expression.end.ts"
+      ],
+			"settings": {
+				"foreground": "#0808D1"
 			}
 		}
 	]
