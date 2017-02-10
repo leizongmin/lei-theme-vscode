@@ -27,7 +27,7 @@
     {
 			"scope": "comment",
 			"settings": {
-				"foreground": "#888888"
+				"foreground": "#777777"
 			}
 		},
     {
@@ -68,6 +68,31 @@
       ],
 			"settings": {
 				"foreground": "#0808D1"
+			}
+		},
+    {
+			"scope": [
+				"constant.numeric",
+        "markup.inserted",
+        "meta.preprocessor.numeric",
+        "keyword.other.unit",
+        "constant.sha.git-rebase",
+        "constant.language"
+			],
+			"settings": {
+				"foreground": "#BF0099"
+			}
+		},
+    {
+			"name": "Function declarations",
+			"scope": [
+				"entity.name.function",
+				"support.function",
+
+				"support.constant.handlebars"
+			],
+			"settings": {
+				"foreground": "#45007E"
 			}
 		}
 	]
