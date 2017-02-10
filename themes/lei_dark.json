@@ -7,7 +7,7 @@
 			"settings": {
 				"background": "#232323",
 				"caret": "#F8F8F0",
-				"foreground": "#CCCCCC",
+				"foreground": "#BBBBBB",
 				"invisibles": "#F1FFB817",
 				"lineHighlight": "#42E6FF1C",
 				"selection": "#33CCFF47",
@@ -28,6 +28,145 @@
 			"scope": "comment",
 			"settings": {
 				"foreground": "#707180"
+			}
+		},
+    {
+			"scope": [
+        "entity.other.attribute-name",
+        "meta.structure.dictionary.key.python",
+        "support.type.vendored.property-name",
+				"support.type.property-name",
+				"variable.css",
+				"variable.scss",
+				"variable.other.less",
+        "support.function.git-rebase",
+        "variable",
+				"meta.definition.variable.name",
+				"support.variable",
+        "meta.object-literal.key",
+				"meta.object-literal.key entity.name.function"
+      ],
+			"settings": {
+				"foreground": "#BBBBBB"
+			}
+		},
+    {
+			"scope": [
+        "keyword",
+        "keyword.control",
+        "keyword.operator.new",
+        "keyword.operator.expression",
+        "variable.language",
+        "meta.preprocessor",
+        "storage",
+        "storage.type",
+        "storage.modifier",
+
+        "string.comment.buffered.block.jade",
+				"string.quoted.jade",
+				"string.interpolated.jade",
+
+				"string.unquoted.plain.in.yaml",
+				"string.unquoted.plain.out.yaml",
+				"string.unquoted.block.yaml",
+				"string.quoted.single.yaml",
+
+				"string.quoted.double.xml",
+				"string.quoted.single.xml",
+				"string.unquoted.cdata.xml",
+
+				"string.quoted.double.html",
+				"string.quoted.single.html",
+				"string.unquoted.html",
+
+				"string.quoted.single.handlebars",
+				"string.quoted.double.handlebars",
+
+        "punctuation.definition.template-expression.begin.ts",
+				"punctuation.definition.template-expression.end.ts"
+      ],
+			"settings": {
+				"foreground": "#63A1C2"
+			}
+		},
+    {
+			"scope": [
+				"constant.numeric",
+        "markup.inserted",
+        "meta.preprocessor.numeric",
+        "keyword.other.unit",
+        "constant.sha.git-rebase",
+        "constant.language"
+			],
+			"settings": {
+				"foreground": "#BF0099"
+			}
+		},
+    {
+			"name": "Function declarations",
+			"scope": [
+				"entity.name.function",
+				"support.function",
+
+				"support.constant.handlebars"
+			],
+			"settings": {
+				"foreground": "#34E2E2"
+			}
+		},
+    {
+			"name": "Types declaration and references",
+			"scope": [
+				"meta.return-type",
+				"support.class",
+				"support.type",
+				"entity.name.type",
+				"entity.name.class",
+
+				"storage.type.cs",
+				"storage.type.generic.cs",
+				"storage.type.modifier.cs",
+				"storage.type.variable.cs",
+
+				"storage.type.annotation.java",
+				"storage.type.generic.java",
+				"storage.type.java",
+				"storage.type.object.array.java",
+				"storage.type.primitive.array.java",
+				"storage.type.primitive.java",
+				"storage.type.token.java",
+
+				"storage.type.groovy",
+				"storage.type.annotation.groovy",
+				"storage.type.parameters.groovy",
+				"storage.type.generic.groovy",
+				"storage.type.object.array.groovy",
+				"storage.type.primitive.array.groovy",
+				"storage.type.primitive.groovy",
+
+        "meta.return.type",
+				"meta.type.cast.expr",
+				"meta.type.new.expr",
+				"support.constant.math",
+				"support.constant.dom",
+				"support.constant.json",
+
+				"entity.other.inherited-class"
+			],
+			"settings": {
+				"foreground": "#BBBBBB"
+			}
+		},
+    {
+			"scope": [
+        "string",
+        "string.tag",
+        "string.value",
+        "string.regexp",
+        "markup.deleted"
+      ],
+			"settings": {
+				"foreground": "#E68673D1"
 			}
 		}
 	]
