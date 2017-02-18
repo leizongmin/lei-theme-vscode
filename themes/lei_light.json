@@ -146,8 +146,34 @@
         "keyword.control"
       ],
 			"settings": {
-        "foreground": "#B309A1",
+        "foreground": "#BF0099",
         "fontStyle": "normal"
+			}
+		},
+    {
+			"name": "XML/HTML tags",
+			"scope": [
+        "punctuation.definition.tag",
+        "entity.name.tag"
+      ],
+			"settings": {
+				"foreground": "#268BD2"
+			}
+		},
+    {
+			"scope": [
+        "entity.name.tag"
+      ],
+			"settings": {
+        "fontStyle": "bold"
+			}
+		},
+    {
+			"scope": [
+        "entity.other.attribute-name"
+      ],
+			"settings": {
+				"foreground": "#BF0099"
 			}
 		}
 	]
