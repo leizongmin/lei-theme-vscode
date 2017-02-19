@@ -2,7 +2,7 @@
   "name": "theme-lei",
   "displayName": "Lei Theme",
   "description": "Theme for JavaScript, TypeScript and Web Developer base on default Light & Dark theme.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "publisher": "leizongmin",
   "license": "MIT",
   "bugs": {
@@ -28,6 +28,10 @@
       "label": "Lei Light",
       "uiTheme": "vs",
       "path": "./themes/lei_light.json"
+    }, {
+      "label": "Lei Light 2",
+      "uiTheme": "vs",
+      "path": "./themes/lei_light2.json"
     }, {
       "label": "Lei Dark",
       "uiTheme": "vs-dark",
