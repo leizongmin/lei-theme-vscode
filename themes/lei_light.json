@@ -134,6 +134,18 @@
 			"settings": {
 				"foreground": "#DD4A68"
 			}
-		}
+		},
+    {
+      "scope": [
+        "meta.brace",
+        "meta.delimiter",
+        "punctuation.definition",
+        "punctuation.terminator",
+        "punctuation.separator"
+      ],
+      "settings": {
+        "foreground": "#999999"
+      }
+    }
 	]
 }
