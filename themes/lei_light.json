@@ -165,6 +165,18 @@
 			"settings": {
 				"foreground": "#BF0099"
 			}
+		},
+    {
+			"scope": [
+				"support.type.vendored.property-name",
+				"support.type.property-name",
+				"variable.css",
+				"variable.scss",
+				"variable.other.less"
+			],
+			"settings": {
+				"foreground": "#DD4A68"
+			}
 		}
 	]
 }
