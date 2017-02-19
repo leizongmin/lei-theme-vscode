@@ -29,10 +29,6 @@
       "uiTheme": "vs",
       "path": "./themes/lei_light.json"
     }, {
-      "label": "Lei Light 2",
-      "uiTheme": "vs",
-      "path": "./themes/lei_light2.json"
-    }, {
       "label": "Lei Dark",
       "uiTheme": "vs-dark",
       "path": "./themes/lei_dark.json"
