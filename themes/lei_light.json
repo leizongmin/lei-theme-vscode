@@ -141,23 +141,13 @@
 			}
 		},
     {
-      "name": "Control Keyword",
-			"scope": [
-        "keyword.control"
-      ],
-			"settings": {
-        "foreground": "#BF0099",
-        "fontStyle": "normal"
-			}
-		},
-    {
 			"name": "XML/HTML tags",
 			"scope": [
         "punctuation.definition.tag",
         "entity.name.tag"
       ],
 			"settings": {
-				"foreground": "#268BD2"
+				"foreground": "#0077aa"
 			}
 		},
     {
