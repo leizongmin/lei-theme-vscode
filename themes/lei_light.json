@@ -91,7 +91,10 @@
 				"entity.name.function",
 				"support.function",
 
-				"support.constant.handlebars"
+				"support.constant.handlebars",
+
+        "support.class",
+				"entity.name.class"
 			],
 			"settings": {
 				"foreground": "#353431"
