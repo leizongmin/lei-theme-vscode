@@ -6,8 +6,8 @@
 			"name": "settings",
 			"settings": {
 				"background": "#EFE9DD",
-        "caret": "#000000",
-				"foreground": "#000000",
+        "caret": "#353431",
+				"foreground": "#353431",
 				"invisibles": "#dddddd",
 				"lineHighlight": "#E0E0E0",
 				"selection": "#cccccc",
@@ -27,7 +27,7 @@
     {
 			"scope": "comment",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#9E9B93"
 			}
 		},
     {
@@ -94,7 +94,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#353431"
 			}
 		},
     {
@@ -136,6 +136,7 @@
 			}
 		},
     {
+      "name": "Punctuation",
       "scope": [
         "meta.brace",
         "meta.delimiter",
@@ -144,7 +145,7 @@
         "punctuation.separator"
       ],
       "settings": {
-        "foreground": "#999999"
+        "foreground": "#9E9B93"
       }
     }
 	]
