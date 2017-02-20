@@ -5,7 +5,7 @@
 		{
 			"name": "settings",
 			"settings": {
-				"background": "#F9F2E5",
+				"background": "#EFE9DD",
         "caret": "#000000",
 				"foreground": "#000000",
 				"invisibles": "#dddddd",
