@@ -68,7 +68,7 @@
 				"punctuation.definition.template-expression.end.ts"
       ],
 			"settings": {
-				"foreground": "#0866D1",
+				"foreground": "#2262A5",
         "fontStyle": "normal"
 			}
 		},
