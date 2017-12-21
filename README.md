@@ -1,5 +1,7 @@
 # README
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/leizongmin/lei-theme-vscode.svg)](https://greenkeeper.io/)
+
 Theme for JavaScript, TypeScript and Web Developer base on default Light & Dark theme.
 
 ## Installation
